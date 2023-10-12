@@ -7,5 +7,6 @@ Este repositorio se utiliza para almacenar y gestionar los informes individuales
 El repositorio está organizado de la siguiente manera:
 
 |-- Práctica 1 - Accesibilidad Web.pdf
+
 |-- Práctica 4 - Elección de una arquitectura.pdf
 
