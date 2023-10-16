@@ -1,4 +1,4 @@
-# Repositorio de Informes - Programación de Aplicaciones Móviles Nativas 2023/2024
+# Programación de Aplicaciones Móviles Nativas 2023/2024
 
 Este repositorio se utiliza para almacenar y gestionar los informes individuales de las prácticas de la asignatura de "Programación de Aplicaciones Móviles Nativas".
 
