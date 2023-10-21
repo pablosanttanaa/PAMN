@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="mail">pablo.santana113@alu.ulpgc.es</string>
+    <string name="socialmedia">\@cuentaInstagram</string>
+    <string name="phone">+00 123 45 67 89</string>
+    <string name="full_name">Pablo Santana</string>
+</resources>
