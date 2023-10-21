@@ -7,9 +7,9 @@ El objetivo principal es llevar a cabo un seguimiento y tracking de todas aquell
 
 El repositorio está organizado de la siguiente manera:
 
-1. [Práctica 1](https://github.com/pablosanttanaa/PAMN/blob/main/Pr%C3%A1ctica%201%20-%20Accesibilidad%20Web.pdf)
-2. [Práctica 4](https://github.com/pablosanttanaa/PAMN/blob/main/Pr%C3%A1ctica%204%20-%20%20Elecci%C3%B3n%20de%20una%20arquitectura.pdf)
-3. [Práctica 5](https://github.com/pablosanttanaa/PAMN/tree/main/CodeLab%20-%20PrimeraAppAndroid)
+1. [Práctica 1](https://github.com/pablosanttanaa/PAMN/blob/main/Pr%C3%A1ctica%201%20-%20Accesibilidad%20Web.pdf) - Accesibilidad Web
+2. [Práctica 4](https://github.com/pablosanttanaa/PAMN/blob/main/Pr%C3%A1ctica%204%20-%20%20Elecci%C3%B3n%20de%20una%20arquitectura.pdf) - Elección de una arquitectura
+3. [Práctica 5](https://github.com/pablosanttanaa/PAMN/tree/main/CodeLab%20-%20PrimeraAppAndroid) - CodeLab - Mi primera App Android
 
 
 En este repositorio se recogerá el trabajo realizado por Pablo Santana Susilla
